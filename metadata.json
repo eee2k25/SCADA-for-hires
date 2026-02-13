@@ -1,0 +1,5 @@
+{
+  "name": "EcoFlux SCADA",
+  "description": "A production-grade Industrial IoT SCADA application for Hybrid Renewable Energy Systems featuring real-time monitoring, bi-directional RPC control, and weather-based intelligent optimization.",
+  "requestFramePermissions": []
+}
